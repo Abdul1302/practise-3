@@ -1,0 +1,6 @@
+             What we need to improve our book design is optical margins; 
+             margins that line up the letters while letting the punctuation 
+             hang over the edges. Though this technically introduces less 
+             even margins, the tiny punctuation marks use less ink than the
+             letterforms and are more or less invisible. When we turn optical 
+             margins on,the effect creates an illusion of straight, tidy margins.
